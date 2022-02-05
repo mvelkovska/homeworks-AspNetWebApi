@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qSsFdCgjl1SMdPoqkcBBIAF1yC8ze8SGUdmA2Uoqgo52cZTWYHqSsuCix+aN8/HDLLlmtWRmeegnY6lA0XUS6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ivica\\Desktop\\SEDC\\AspNetApi\\homeworks-AspNetWebApi\\Homework01\\UsersApp\\UsersApp\\UsersApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivica\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
